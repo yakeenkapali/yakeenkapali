@@ -1,6 +1,6 @@
 ### UX/UI Designer, passionate about creating art.
 
-![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/smokersan.jpg)
+![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/banner.png)
 
 - **Design**
 <p>
