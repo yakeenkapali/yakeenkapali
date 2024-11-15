@@ -2,9 +2,9 @@ UX/UI Designer, passionate about creating art.
 
 ---
 
-### 🔧 Technologies & Tools I Use:
+### Technologies & Tools I Use:
 
-- **Design**
+**Design**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="30" alt="Blender">
@@ -12,7 +12,7 @@ UX/UI Designer, passionate about creating art.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
 </p>
 
-- **Languages**
+**Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5">
@@ -21,6 +21,7 @@ UX/UI Designer, passionate about creating art.
 
 ---
 
-### 📫 More about Me
-- **LinkedIn:** [LinkedIn](https://linkedin.com/in/yakeenkapali)
-- **Email:** yakeenkapali@gmail.com
+### More about Me
+**LinkedIn** [LinkedIn](https://linkedin.com/in/yakeenkapali)
+**Behance** [Behance](https://behance.com/yakeenkapali)
+**Dribbble** [Dribbble](https://dribbble.com/yakeenkapali)
