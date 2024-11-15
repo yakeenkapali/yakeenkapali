@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" width="30" alt="Adobe Photoshop">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_2018.svg" height="30" width="30" alt="Blender">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="30" alt="Blender">
 </p>
 
 ---
