@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating ar
 - **Design**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" width="30" alt="Adobe Photoshop">
+  <img src="https://www.svgrepo.com/show/303252/adobe-photoshop.svg" height="30" width="30" alt="Adobe Photoshop">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
 </p>
 
