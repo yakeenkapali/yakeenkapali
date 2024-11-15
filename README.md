@@ -12,8 +12,6 @@ UX/UI Designer, passionate about creating art.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
 </p>
 
----
-
 - **Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript">
