@@ -1,9 +1,11 @@
 ![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/banner.png)
 
 
-### UX/UI Designer, passionate about creating art.
+### UX/UI Designer, *passionate about creating art.*
 
-- **Design Tools**
+- I love solving complex UX problems and creating visual aesthetics.
+
+**Design Tools**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="30" alt="Blender">
@@ -11,7 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
 </p>
 
-- **Languages**
+**Languages**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5">
