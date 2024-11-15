@@ -1,10 +1,6 @@
-# Hi there, I'm Yakeen! 👋
+### Hi there, I'm Yakeen! 👋
 
 Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating art. Here you'll find a mix of projects I'm working on, both for learning and for sharing with the community. 
-
----
-
-### 🔧 Technologies & Tools I Use:
 
 ### 🔧 Technologies & Tools I Use:
 
@@ -20,9 +16,8 @@ Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating ar
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" height="30" width="30" alt="Adobe Photoshop">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" width="30" alt="Adobe Illustrator">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Blender_logo_no_text.svg" height="30" width="30" alt="Blender">
 </p>
-
----
 
 ### 📫 How to Reach Me
 - **Website:** [Website](yakeenkapali.com.np)
