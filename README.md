@@ -13,6 +13,6 @@ Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating ar
 ---
 
 ### 📫 How to Reach Me
-- **Website:** [YourWebsite.com](yakeenkapali.com.np)
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/yakeenkapali)
-- **Email:** [youremail@example.com](mailto:yakeenkapali@gmail.com)
+- **Website:** [Website](yakeenkapali.com.np)
+- **LinkedIn:** [LinkedIn](https://linkedin.com/in/yakeenkapali)
+- **Email:** [Email](mailto:yakeenkapali@gmail.com)
