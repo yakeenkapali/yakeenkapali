@@ -6,20 +6,21 @@ Welcome to my GitHub profile! I'm a UX/UI Designer, passionate about creating ar
 
 ### 🔧 Technologies & Tools I Use:
 
+### 🔧 Technologies & Tools I Use:
+
 - **Languages**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="CSS3">
+  <img src="https://www.svgrepo.com/show/355081/javascript.svg" height="30" width="30" alt="JavaScript Outline Icon">
+  <img src="https://www.svgrepo.com/show/355037/html-5.svg" height="30" width="30" alt="HTML5 Outline Icon">
+  <img src="https://www.svgrepo.com/show/355029/css-3.svg" height="30" width="30" alt="CSS3 Outline Icon">
 </p>
 
 - **Design**
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" height="30" width="30" alt="Adobe Photoshop">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="30" width="30" alt="Adobe Illustrator">
+  <img src="https://www.svgrepo.com/show/354987/figma.svg" height="30" width="30" alt="Figma Outline Icon">
+  <img src="https://www.svgrepo.com/show/355039/adobe-photoshop.svg" height="30" width="30" alt="Adobe Photoshop Outline Icon">
+  <img src="https://www.svgrepo.com/show/355038/adobe-illustrator.svg" height="30" width="30" alt="Adobe Illustrator Outline Icon">
 </p>
-
 
 ---
 
