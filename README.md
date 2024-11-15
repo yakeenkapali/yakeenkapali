@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="CSS3">
 </p>
 
-- **More about me**
+- **More about me** </br>
 [LinkedIn](https://linkedin.com/in/yakeenkapali)
 [Behance](https://behance.com/yakeenkapali)
 [Dribbble](https://dribbble.com/yakeenkapali)
