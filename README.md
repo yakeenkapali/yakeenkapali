@@ -1,4 +1,4 @@
-![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/banner.png)
+![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/img/banner.png)
 
 
 ### UX/UI Designer, *passionate about creating art.*
