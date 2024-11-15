@@ -7,7 +7,7 @@
 - Design Tools: Figma, Blender, Adobe Photoshop, Adobe Illustrator
 - Languages: Javascript, HTML, CSS 
 
-- **More about me** </br>
+- **More about me:**
 [LinkedIn](https://linkedin.com/in/yakeenkapali)
 [Behance](https://behance.com/yakeenkapali)
 [Dribbble](https://dribbble.com/yakeenkapali)
