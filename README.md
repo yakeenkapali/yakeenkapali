@@ -1,8 +1,9 @@
-### UX/UI Designer, passionate about creating art.
-
 ![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/banner.png)
 
-- **Design**
+
+### UX/UI Designer, passionate about creating art.
+
+- **Design Tools**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" width="30" alt="Blender">
