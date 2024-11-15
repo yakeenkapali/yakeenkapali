@@ -22,6 +22,6 @@ UX/UI Designer, passionate about creating art.
 ---
 
 ### More about Me
-**LinkedIn** [LinkedIn](https://linkedin.com/in/yakeenkapali)
-**Behance** [Behance](https://behance.com/yakeenkapali)
-**Dribbble** [Dribbble](https://dribbble.com/yakeenkapali)
+[LinkedIn](https://linkedin.com/in/yakeenkapali)
+[Behance](https://behance.com/yakeenkapali)
+[Dribbble](https://dribbble.com/yakeenkapali)
