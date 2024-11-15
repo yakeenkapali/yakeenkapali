@@ -5,7 +5,8 @@
 
 - I love solving complex UX problems and creating visual aesthetics.
 - **Design Tools**: Figma, Blender, Adobe Photoshop, Adobe Illustrator
-- **Languages**: Javascript, HTML, CSS 
+- **Languages**: Javascript, HTML, CSS
+- **Frameworks**: React, Tailwind
 - **More about me:**
 [LinkedIn](https://linkedin.com/in/yakeenkapali)
 [Behance](https://behance.com/yakeenkapali)
