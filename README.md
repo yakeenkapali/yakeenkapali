@@ -1,5 +1,7 @@
 ### UX/UI Designer, passionate about creating art.
 
+![My Banner](https://raw.githubusercontent.com/yakeenkapali/yakeenkapali/main/imgs/banner.png)
+
 - **Design**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" alt="Figma">
