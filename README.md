@@ -1,4 +1,4 @@
-UX/UI Designer, passionate about creating art.
+### UX/UI Designer, passionate about creating art.
 
 - **Design**
 <p>
